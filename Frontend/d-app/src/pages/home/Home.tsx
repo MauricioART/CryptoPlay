@@ -23,7 +23,7 @@ const gear = async function connect() {
   });
 
   const message = {
-    destination: 'id',
+    destination: 'idg',
     payload: 'PING',
     gasLimit: 10000000
   };
