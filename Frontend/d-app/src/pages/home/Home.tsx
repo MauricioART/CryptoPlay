@@ -33,7 +33,7 @@ const gear = async function connect() {
 function Home() {
 
 
-  return (<Button text="connect" onClick={gear}/>);
+  return (<br/>);
 }
 
 export { Home };
