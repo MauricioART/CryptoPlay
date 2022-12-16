@@ -58,8 +58,9 @@ function Header() {
   return (
     <header> 
       <Menu styles={styles}>
+      <a id="RPS" className="menu-item" href="/">Home</a>
         <a id="RPS" className="menu-item" href="/RPS">Rock, Paper, Scissors</a>
-        <a id="coinFlip" className="menu-item" href="/coinFlip">Coin Flip</a>
+        <a id="coinFlip" className="menu-item" href="/coinToss">Coin Toss</a>
         <br/>
         <a id="slotMachine" className="menu-item" href="/slotMachines">Slot Machine</a>
       </Menu>

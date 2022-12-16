@@ -31,8 +31,7 @@ module.exports = {
       "error", {
          "devDependencies": false, 
          "optionalDependencies": false, 
-         "peerDependencies": false, 
-         "packageDir": "./"
+         "peerDependencies": false
       }
   ],
 
