@@ -22,6 +22,7 @@
     "@types/react-dom": "^18.0.4",
     "buffer": "^6.0.3",
     "clsx": "^1.1.1",
+    "ipfs": "^0.65.0",
     "react": "^18.1.0",
     "react-burger-menu": "^2.7.1",
     "react-dom": "^18.1.0",
