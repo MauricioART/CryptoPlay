@@ -7,3 +7,5 @@ const LOCAL_STORAGE = {
 };
 
 export { ADDRESS, LOCAL_STORAGE };
+
+export const ERC20_CONTRACT_ADDRESS = (process.env.REACT_APP_CONTRACT_ERC as `0x${string}`) || '';
